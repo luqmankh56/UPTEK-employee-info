@@ -7,4 +7,6 @@ Title Icon: Custom icon added to the webpage title for better experience.
 
 **Tech Stack:**
 HTML: Used to create the table.
-CSS: Used for color, borders and icon radius.
+CSS: Used for color, padding(the space between the element and the border), borders and icon radius.
+
+live: https://uptekemployeeinfo.netlify.app/
